@@ -6,6 +6,6 @@
       "papertrail",
       "mailgun"
     ],
-    "success_url": "/postinstall.php"
+    "success_url": "/post_install.php"
   }
   
