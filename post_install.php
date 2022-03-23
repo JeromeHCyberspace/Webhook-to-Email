@@ -8,7 +8,7 @@ Scroll down, then add your email (same value from before in environment variable
 
 Now in game set your Webhook URL to the following value: <span id='webhook_url'></span>
 <script>
-document.getElementById('webhook_url').innerHTML = window.location.href.replace('/postinstall.php', '/webhook.php');
+document.getElementById('webhook_url').innerHTML = window.location.href.replace('/post_install.php', '/webhook.php');
 </script>
 <br><br>
 ----------------<br>
