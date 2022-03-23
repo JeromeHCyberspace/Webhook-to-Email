@@ -1,0 +1,11 @@
+{
+    "env": {
+      "YOUR_EMAIL": ""
+    },
+    "addons": [
+      "papertrail",
+      "mailgun"
+    ],
+    "success_url": "/postinstall.php"
+  }
+  
